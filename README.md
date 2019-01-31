@@ -19,9 +19,15 @@ DIRECTIONS
 3. Choose from the following options on the menu:
 
 NOTE: (The menu in LangSaver uses Emojis to save space. So this is an approximation).
+   
    1 - Audio+Image+Text
+   
    2 - Audio+Photo only (no text)
+   
    3 - Audio (L1 Text/L2 NoText)
+   
    4 - Auio ONLY (no text or images for L1/L2)
+   
    5 - L1 Text/L2 GIF (this is for sign languages)
+   
    6 - Passage in L2 (NO Translation)
