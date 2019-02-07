@@ -1,5 +1,5 @@
 # langsave
-(CURRENT VERSION - 0.01b)
+(CURRENT VERSION - 0.1b)
 
 
 A Language Documentation Project
