@@ -29,10 +29,8 @@ NOTE: (The menu in LangSaver uses Emojis to save space. So this is an approximat
    
    4 - Auio ONLY (no text or images for L1/L2)
    
-   5 - L1 Text/L2 GIF (this is for sign languages)
+   5 - Passage in L2 (NO Translation)
    
-   6 - Passage in L2 (NO Translation)
-   
-   7 - L1 text w/ L2 Sign Language
+   6 - L1 text w/ L2 Sign Language
    
 If you wish to contact me, you can use GitHub and I am on Twitter @themitchnesbitt.
