@@ -1,4 +1,5 @@
 # langsave
+(CURRENT VERSION - 0.01b
 A Language Documentation Project
 LangSaver is an iOS Shortcut I put together to quickly document and preserve languages and language data. 
 It very quickly records text, images, video, or audio (depending on menu choices) and organizes the data to make an folder with all media along with a .txt file that matches recordings with translations.
